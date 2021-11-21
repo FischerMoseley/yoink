@@ -1,6 +1,6 @@
 # yoink
 
-Motion planning for graping a flying projectile with a robotic arm and two-finger gripper. Completed as a final project for 6.843, Russ Tedrake's excellent robotic manipulation class. Simulation done in Drake, writeups in LaTeX, and crying in banana lounge.
+Motion planning for grasping a flying projectile with a robotic arm and two-finger gripper. Completed as a final project for 6.843, Russ Tedrake's excellent robotic manipulation class. Simulation done in Drake, writeups in LaTeX, and crying in banana lounge.
 
 The associated Deepnote project can be viewed [here](https://deepnote.com/project/Gronkowskiiwa-lKm9Ye1YTHiV27yUSU5Iug/%2Fyoink%2Fyoink.ipynb).
 
